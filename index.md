@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Welcome to my programming and pentesting blog
 ---
+Pentesting Methodology:
 
+1. Active and Passive Reconnissance.
