@@ -1,6 +1,7 @@
 ---
 title: "Comprehensive Penetration Testing Methodology"
 date: "2024-11-15"
+layout: post
 ---
 
 ## Overview
